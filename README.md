@@ -1,9 +1,9 @@
-commands for deploying action
+# commands for deploying action
 
 1)ibmcloud resource groups
 
 2)ibmcloud target -g [name of resource group]
-# cannot create or set resource group with free account
+(cannot create or set resource group with free account)
 
 3)ibmcloud fn property set --namespace 3d6c22fc-102d-4b35-959e-144e93703876
 
